@@ -1,0 +1,16 @@
+
+{
+  "jmeno": "Hugo",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "stat": "Cesko"
+  },
+  "konicky": [
+    "hry",
+    "posilovna",
+    "technologie"
+  ]
+}
